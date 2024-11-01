@@ -1,0 +1,19 @@
+.su-gallery{
+	display:block;
+	width:100%;
+
+}
+.su-gallery .su-img{
+	margin:15px;
+	text-decoration:none;
+	display:inline-block;
+}
+.su-gallery .su-img:focus{
+	outline:none;	
+}
+.su-gallery h3 {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 15px 0;
+    font-style: inherit;
+}
